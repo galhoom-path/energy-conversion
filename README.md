@@ -1,3 +1,7 @@
+> 🛤️ **Part of [Galhoom Path](https://github.com/galhoom-path)** · Track 4 — Projects  
+> This repository belongs to the **Galhoom Path** organization (**Study** · **Problem Solving** · **Interview Prep** · **Projects**).  
+> It is a **shipped product / portfolio project** — not a Study-track `03-Final-Project` capstone.  
+> → [Organization home](https://github.com/galhoom-path)
 <h1 align="center">⚡ Energy Conversion & Metering Platform</h1>
 
 <p align="center">
@@ -22,7 +26,7 @@ This platform exposes a versioned REST API for the full energy metering lifecycl
 
 | Layer | Technology |
 | ----- | ---------- |
-| Language | PHP 8.4 |
+| Language | PHP 8.3+ |
 | Framework | Laravel 13 |
 | Testing | Pest 4 |
 | Frontend | Tailwind CSS 4 |
